@@ -11,17 +11,18 @@ This application provides a simple and intuitive interface for handling the enti
 ---
 ## Screenshots
 
-## Screenshots
-
 ### Teacher Dashboard:
-<img src="Screenshots/enter.png" alt="Teacher Dashboard" width="500"/>
-<img src="Screenshots/teachers.png" alt="Teacher Dashboard" width="500"/>
-<img src="Screenshots/edit.png" alt="Teacher Dashboard" width="500"/>
+<p float="left">
+    <img src="Screenshots/enter.png" alt="Teacher Dashboard" width="300"/>
+    <img src="Screenshots/teachers.png" alt="Teacher Dashboard" width="300"/>
+    <img src="Screenshots/edit.png" alt="Teacher Dashboard" width="300"/>
+</p>
 
 ### Student Exam Interface:
-<img src="Screenshots/test.png" alt="Student Exam Interface" width="500"/>
-
-
+<p float="left">
+    <img src="Screenshots/enter.png" alt="Student Exam Interface" width="300"/>
+    <img src="Screenshots/test.png" alt="Student Exam Interface" width="300"/>
+</p>
 ## Features
 
 ### For Teachers:
