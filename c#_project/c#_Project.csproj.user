@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="BaseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Edit_Test.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Exam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ExistingQuestion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FinishTExam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NewTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="representQuestion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Questions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SelectTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ShowQuestionsToEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Teacher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

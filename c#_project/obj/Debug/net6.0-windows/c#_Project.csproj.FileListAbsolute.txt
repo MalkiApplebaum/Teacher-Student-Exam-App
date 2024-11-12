@@ -1,0 +1,255 @@
+D:\Users\The user\Desktop\projectc#\c#_project\c#_Project\bin\Debug\net6.0-windows\c#_Project.exe
+D:\Users\The user\Desktop\projectc#\c#_project\c#_Project\bin\Debug\net6.0-windows\c#_Project.deps.json
+D:\Users\The user\Desktop\projectc#\c#_project\c#_Project\bin\Debug\net6.0-windows\c#_Project.runtimeconfig.json
+D:\Users\The user\Desktop\projectc#\c#_project\c#_Project\bin\Debug\net6.0-windows\c#_Project.dll
+D:\Users\The user\Desktop\projectc#\c#_project\c#_Project\bin\Debug\net6.0-windows\c#_Project.pdb
+D:\Users\The user\Desktop\projectc#\c#_project\c#_Project\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\Users\The user\Desktop\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.csproj.AssemblyReference.cache
+D:\Users\The user\Desktop\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.Edit_Test.resources
+D:\Users\The user\Desktop\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.Exam.resources
+D:\Users\The user\Desktop\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.ExistingQuestion.resources
+D:\Users\The user\Desktop\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.FinishTExam.resources
+D:\Users\The user\Desktop\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.question.resources
+D:\Users\The user\Desktop\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.Questions.resources
+D:\Users\The user\Desktop\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.representQuestion.resources
+D:\Users\The user\Desktop\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.SelectTest.resources
+D:\Users\The user\Desktop\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.ShowQuestionsToEdit.resources
+D:\Users\The user\Desktop\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.Teacher.resources
+D:\Users\The user\Desktop\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.csproj.GenerateResource.cache
+D:\Users\The user\Desktop\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\The user\Desktop\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.AssemblyInfoInputs.cache
+D:\Users\The user\Desktop\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.AssemblyInfo.cs
+D:\Users\The user\Desktop\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.csproj.CoreCompileInputs.cache
+D:\Users\The user\Desktop\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.csproj.CopyComplete
+D:\Users\The user\Desktop\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.dll
+D:\Users\The user\Desktop\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\refint\c#_Project.dll
+D:\Users\The user\Desktop\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.pdb
+D:\Users\The user\Desktop\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.genruntimeconfig.cache
+D:\Users\The user\Desktop\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\ref\c#_Project.dll
+F:\projectc#\c#_project\c#_Project\bin\Debug\net6.0-windows\c#_Project.exe
+F:\projectc#\c#_project\c#_Project\bin\Debug\net6.0-windows\c#_Project.deps.json
+F:\projectc#\c#_project\c#_Project\bin\Debug\net6.0-windows\c#_Project.runtimeconfig.json
+F:\projectc#\c#_project\c#_Project\bin\Debug\net6.0-windows\c#_Project.dll
+F:\projectc#\c#_project\c#_Project\bin\Debug\net6.0-windows\c#_Project.pdb
+F:\projectc#\c#_project\c#_Project\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+F:\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.csproj.AssemblyReference.cache
+F:\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.Edit_Test.resources
+F:\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.Exam.resources
+F:\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.ExistingQuestion.resources
+F:\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.FinishTExam.resources
+F:\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.question.resources
+F:\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.Questions.resources
+F:\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.representQuestion.resources
+F:\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.SelectTest.resources
+F:\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.ShowQuestionsToEdit.resources
+F:\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.Teacher.resources
+F:\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.csproj.GenerateResource.cache
+F:\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.GeneratedMSBuildEditorConfig.editorconfig
+F:\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.AssemblyInfoInputs.cache
+F:\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.AssemblyInfo.cs
+F:\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.csproj.CoreCompileInputs.cache
+F:\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.csproj.CopyComplete
+F:\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.dll
+F:\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\refint\c#_Project.dll
+F:\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.pdb
+F:\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.genruntimeconfig.cache
+F:\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\ref\c#_Project.dll
+E:\projectc#\c#_project\c#_Project\bin\Debug\net6.0-windows\c#_Project.exe
+E:\projectc#\c#_project\c#_Project\bin\Debug\net6.0-windows\c#_Project.deps.json
+E:\projectc#\c#_project\c#_Project\bin\Debug\net6.0-windows\c#_Project.runtimeconfig.json
+E:\projectc#\c#_project\c#_Project\bin\Debug\net6.0-windows\c#_Project.dll
+E:\projectc#\c#_project\c#_Project\bin\Debug\net6.0-windows\c#_Project.pdb
+E:\projectc#\c#_project\c#_Project\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+E:\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.csproj.AssemblyReference.cache
+E:\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.Edit_Test.resources
+E:\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.Exam.resources
+E:\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.ExistingQuestion.resources
+E:\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.FinishTExam.resources
+E:\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.question.resources
+E:\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.Questions.resources
+E:\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.representQuestion.resources
+E:\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.SelectTest.resources
+E:\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.ShowQuestionsToEdit.resources
+E:\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.Teacher.resources
+E:\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.csproj.GenerateResource.cache
+E:\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.AssemblyInfoInputs.cache
+E:\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.AssemblyInfo.cs
+E:\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.csproj.CoreCompileInputs.cache
+E:\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.csproj.CopyComplete
+E:\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.dll
+E:\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\refint\c#_Project.dll
+E:\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.pdb
+E:\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.genruntimeconfig.cache
+E:\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\ref\c#_Project.dll
+C:\Users\326202439\Desktop\projectc#\c#_project\c#_Project\bin\Debug\net6.0-windows\c#_Project.exe
+C:\Users\326202439\Desktop\projectc#\c#_project\c#_Project\bin\Debug\net6.0-windows\c#_Project.deps.json
+C:\Users\326202439\Desktop\projectc#\c#_project\c#_Project\bin\Debug\net6.0-windows\c#_Project.runtimeconfig.json
+C:\Users\326202439\Desktop\projectc#\c#_project\c#_Project\bin\Debug\net6.0-windows\c#_Project.dll
+C:\Users\326202439\Desktop\projectc#\c#_project\c#_Project\bin\Debug\net6.0-windows\c#_Project.pdb
+C:\Users\326202439\Desktop\projectc#\c#_project\c#_Project\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\326202439\Desktop\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.csproj.AssemblyReference.cache
+C:\Users\326202439\Desktop\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.Edit_Test.resources
+C:\Users\326202439\Desktop\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.Exam.resources
+C:\Users\326202439\Desktop\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.ExistingQuestion.resources
+C:\Users\326202439\Desktop\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.FinishTExam.resources
+C:\Users\326202439\Desktop\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.question.resources
+C:\Users\326202439\Desktop\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.Questions.resources
+C:\Users\326202439\Desktop\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.representQuestion.resources
+C:\Users\326202439\Desktop\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.SelectTest.resources
+C:\Users\326202439\Desktop\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.ShowQuestionsToEdit.resources
+C:\Users\326202439\Desktop\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.Teacher.resources
+C:\Users\326202439\Desktop\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.csproj.GenerateResource.cache
+C:\Users\326202439\Desktop\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\326202439\Desktop\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.AssemblyInfoInputs.cache
+C:\Users\326202439\Desktop\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.AssemblyInfo.cs
+C:\Users\326202439\Desktop\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.csproj.CoreCompileInputs.cache
+C:\Users\326202439\Desktop\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.csproj.CopyComplete
+C:\Users\326202439\Desktop\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.dll
+C:\Users\326202439\Desktop\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\refint\c#_Project.dll
+C:\Users\326202439\Desktop\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.pdb
+C:\Users\326202439\Desktop\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.genruntimeconfig.cache
+C:\Users\326202439\Desktop\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\ref\c#_Project.dll
+M:\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.csproj.AssemblyReference.cache
+M:\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.Edit_Test.resources
+M:\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.Exam.resources
+M:\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.ExistingQuestion.resources
+M:\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.FinishTExam.resources
+M:\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.question.resources
+M:\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.Questions.resources
+M:\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.representQuestion.resources
+M:\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.SelectTest.resources
+M:\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.ShowQuestionsToEdit.resources
+M:\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.Teacher.resources
+M:\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.csproj.GenerateResource.cache
+M:\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.GeneratedMSBuildEditorConfig.editorconfig
+M:\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.AssemblyInfoInputs.cache
+M:\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.AssemblyInfo.cs
+M:\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.csproj.CoreCompileInputs.cache
+M:\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.dll
+M:\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\refint\c#_Project.dll
+M:\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.pdb
+M:\projectc#\c#_project\c#_Project\bin\Debug\net6.0-windows\c#_Project.exe
+M:\projectc#\c#_project\c#_Project\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+M:\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.csproj.CopyComplete
+M:\projectc#\c#_project\c#_Project\bin\Debug\net6.0-windows\c#_Project.deps.json
+M:\projectc#\c#_project\c#_Project\bin\Debug\net6.0-windows\c#_Project.runtimeconfig.json
+M:\projectc#\c#_project\c#_Project\bin\Debug\net6.0-windows\c#_Project.dll
+M:\projectc#\c#_project\c#_Project\bin\Debug\net6.0-windows\c#_Project.pdb
+M:\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.genruntimeconfig.cache
+M:\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\ref\c#_Project.dll
+E:\seminar\projectc#\c#_project\c#_Project\bin\Debug\net6.0-windows\c#_Project.exe
+E:\seminar\projectc#\c#_project\c#_Project\bin\Debug\net6.0-windows\c#_Project.deps.json
+E:\seminar\projectc#\c#_project\c#_Project\bin\Debug\net6.0-windows\c#_Project.runtimeconfig.json
+E:\seminar\projectc#\c#_project\c#_Project\bin\Debug\net6.0-windows\c#_Project.dll
+E:\seminar\projectc#\c#_project\c#_Project\bin\Debug\net6.0-windows\c#_Project.pdb
+E:\seminar\projectc#\c#_project\c#_Project\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+E:\seminar\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.csproj.AssemblyReference.cache
+E:\seminar\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.Edit_Test.resources
+E:\seminar\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.Exam.resources
+E:\seminar\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.ExistingQuestion.resources
+E:\seminar\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.FinishTExam.resources
+E:\seminar\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.question.resources
+E:\seminar\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.Questions.resources
+E:\seminar\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.representQuestion.resources
+E:\seminar\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.SelectTest.resources
+E:\seminar\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.ShowQuestionsToEdit.resources
+E:\seminar\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.Teacher.resources
+E:\seminar\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.csproj.GenerateResource.cache
+E:\seminar\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\seminar\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.AssemblyInfoInputs.cache
+E:\seminar\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.AssemblyInfo.cs
+E:\seminar\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.csproj.CoreCompileInputs.cache
+E:\seminar\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.csproj.CopyComplete
+E:\seminar\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.dll
+E:\seminar\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\refint\c#_Project.dll
+E:\seminar\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.pdb
+E:\seminar\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.genruntimeconfig.cache
+E:\seminar\projectc#\c#_project\c#_Project\obj\Debug\net6.0-windows\ref\c#_Project.dll
+D:\Users\The user\Desktop\c#_project\c#_Project\bin\Debug\net6.0-windows\c#_Project.exe
+D:\Users\The user\Desktop\c#_project\c#_Project\bin\Debug\net6.0-windows\c#_Project.deps.json
+D:\Users\The user\Desktop\c#_project\c#_Project\bin\Debug\net6.0-windows\c#_Project.runtimeconfig.json
+D:\Users\The user\Desktop\c#_project\c#_Project\bin\Debug\net6.0-windows\c#_Project.dll
+D:\Users\The user\Desktop\c#_project\c#_Project\bin\Debug\net6.0-windows\c#_Project.pdb
+D:\Users\The user\Desktop\c#_project\c#_Project\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\Users\The user\Desktop\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.csproj.AssemblyReference.cache
+D:\Users\The user\Desktop\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.Edit_Test.resources
+D:\Users\The user\Desktop\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.Exam.resources
+D:\Users\The user\Desktop\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.ExistingQuestion.resources
+D:\Users\The user\Desktop\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.FinishTExam.resources
+D:\Users\The user\Desktop\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.question.resources
+D:\Users\The user\Desktop\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.Questions.resources
+D:\Users\The user\Desktop\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.representQuestion.resources
+D:\Users\The user\Desktop\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.SelectTest.resources
+D:\Users\The user\Desktop\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.ShowQuestionsToEdit.resources
+D:\Users\The user\Desktop\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.Teacher.resources
+D:\Users\The user\Desktop\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.csproj.GenerateResource.cache
+D:\Users\The user\Desktop\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\The user\Desktop\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.AssemblyInfoInputs.cache
+D:\Users\The user\Desktop\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.AssemblyInfo.cs
+D:\Users\The user\Desktop\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.csproj.CoreCompileInputs.cache
+D:\Users\The user\Desktop\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.csproj.CopyComplete
+D:\Users\The user\Desktop\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.dll
+D:\Users\The user\Desktop\c#_project\c#_Project\obj\Debug\net6.0-windows\refint\c#_Project.dll
+D:\Users\The user\Desktop\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.pdb
+D:\Users\The user\Desktop\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.genruntimeconfig.cache
+D:\Users\The user\Desktop\c#_project\c#_Project\obj\Debug\net6.0-windows\ref\c#_Project.dll
+D:\Users\The user\Desktop\‏‏תיקיה חדשה\c#_project\c#_Project\bin\Debug\net6.0-windows\c#_Project.exe
+D:\Users\The user\Desktop\‏‏תיקיה חדשה\c#_project\c#_Project\bin\Debug\net6.0-windows\c#_Project.deps.json
+D:\Users\The user\Desktop\‏‏תיקיה חדשה\c#_project\c#_Project\bin\Debug\net6.0-windows\c#_Project.runtimeconfig.json
+D:\Users\The user\Desktop\‏‏תיקיה חדשה\c#_project\c#_Project\bin\Debug\net6.0-windows\c#_Project.dll
+D:\Users\The user\Desktop\‏‏תיקיה חדשה\c#_project\c#_Project\bin\Debug\net6.0-windows\c#_Project.pdb
+D:\Users\The user\Desktop\‏‏תיקיה חדשה\c#_project\c#_Project\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\Users\The user\Desktop\‏‏תיקיה חדשה\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.csproj.AssemblyReference.cache
+D:\Users\The user\Desktop\‏‏תיקיה חדשה\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.Edit_Test.resources
+D:\Users\The user\Desktop\‏‏תיקיה חדשה\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.Exam.resources
+D:\Users\The user\Desktop\‏‏תיקיה חדשה\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.ExistingQuestion.resources
+D:\Users\The user\Desktop\‏‏תיקיה חדשה\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.FinishTExam.resources
+D:\Users\The user\Desktop\‏‏תיקיה חדשה\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.question.resources
+D:\Users\The user\Desktop\‏‏תיקיה חדשה\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.Questions.resources
+D:\Users\The user\Desktop\‏‏תיקיה חדשה\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.representQuestion.resources
+D:\Users\The user\Desktop\‏‏תיקיה חדשה\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.SelectTest.resources
+D:\Users\The user\Desktop\‏‏תיקיה חדשה\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.ShowQuestionsToEdit.resources
+D:\Users\The user\Desktop\‏‏תיקיה חדשה\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.Teacher.resources
+D:\Users\The user\Desktop\‏‏תיקיה חדשה\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.csproj.GenerateResource.cache
+D:\Users\The user\Desktop\‏‏תיקיה חדשה\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\The user\Desktop\‏‏תיקיה חדשה\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.AssemblyInfoInputs.cache
+D:\Users\The user\Desktop\‏‏תיקיה חדשה\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.AssemblyInfo.cs
+D:\Users\The user\Desktop\‏‏תיקיה חדשה\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.csproj.CoreCompileInputs.cache
+D:\Users\The user\Desktop\‏‏תיקיה חדשה\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.csproj.CopyComplete
+D:\Users\The user\Desktop\‏‏תיקיה חדשה\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.dll
+D:\Users\The user\Desktop\‏‏תיקיה חדשה\c#_project\c#_Project\obj\Debug\net6.0-windows\refint\c#_Project.dll
+D:\Users\The user\Desktop\‏‏תיקיה חדשה\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.pdb
+D:\Users\The user\Desktop\‏‏תיקיה חדשה\c#_project\c#_Project\obj\Debug\net6.0-windows\c#_Project.genruntimeconfig.cache
+D:\Users\The user\Desktop\‏‏תיקיה חדשה\c#_project\c#_Project\obj\Debug\net6.0-windows\ref\c#_Project.dll
+D:\Users\The user\Desktop\‏‏תיקיה חדשה\c#_project\c#_Project\obj\Debug\net6.0-windows\c__Project.BaseForm.resources
+C:\Users\This User\Desktop\c#_project עותק\c#_Project\bin\Debug\net6.0-windows\c#_Project.exe
+C:\Users\This User\Desktop\c#_project עותק\c#_Project\bin\Debug\net6.0-windows\c#_Project.deps.json
+C:\Users\This User\Desktop\c#_project עותק\c#_Project\bin\Debug\net6.0-windows\c#_Project.runtimeconfig.json
+C:\Users\This User\Desktop\c#_project עותק\c#_Project\bin\Debug\net6.0-windows\c#_Project.dll
+C:\Users\This User\Desktop\c#_project עותק\c#_Project\bin\Debug\net6.0-windows\c#_Project.pdb
+C:\Users\This User\Desktop\c#_project עותק\c#_Project\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\This User\Desktop\c#_project עותק\c#_Project\obj\Debug\net6.0-windows\c#_Project.csproj.AssemblyReference.cache
+C:\Users\This User\Desktop\c#_project עותק\c#_Project\obj\Debug\net6.0-windows\c__Project.BaseForm.resources
+C:\Users\This User\Desktop\c#_project עותק\c#_Project\obj\Debug\net6.0-windows\c__Project.Edit_Test.resources
+C:\Users\This User\Desktop\c#_project עותק\c#_Project\obj\Debug\net6.0-windows\c__Project.Exam.resources
+C:\Users\This User\Desktop\c#_project עותק\c#_Project\obj\Debug\net6.0-windows\c__Project.ExistingQuestion.resources
+C:\Users\This User\Desktop\c#_project עותק\c#_Project\obj\Debug\net6.0-windows\c__Project.FinishTExam.resources
+C:\Users\This User\Desktop\c#_project עותק\c#_Project\obj\Debug\net6.0-windows\c__Project.question.resources
+C:\Users\This User\Desktop\c#_project עותק\c#_Project\obj\Debug\net6.0-windows\c__Project.Questions.resources
+C:\Users\This User\Desktop\c#_project עותק\c#_Project\obj\Debug\net6.0-windows\c__Project.representQuestion.resources
+C:\Users\This User\Desktop\c#_project עותק\c#_Project\obj\Debug\net6.0-windows\c__Project.SelectTest.resources
+C:\Users\This User\Desktop\c#_project עותק\c#_Project\obj\Debug\net6.0-windows\c__Project.ShowQuestionsToEdit.resources
+C:\Users\This User\Desktop\c#_project עותק\c#_Project\obj\Debug\net6.0-windows\c__Project.Teacher.resources
+C:\Users\This User\Desktop\c#_project עותק\c#_Project\obj\Debug\net6.0-windows\c#_Project.csproj.GenerateResource.cache
+C:\Users\This User\Desktop\c#_project עותק\c#_Project\obj\Debug\net6.0-windows\c#_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Desktop\c#_project עותק\c#_Project\obj\Debug\net6.0-windows\c#_Project.AssemblyInfoInputs.cache
+C:\Users\This User\Desktop\c#_project עותק\c#_Project\obj\Debug\net6.0-windows\c#_Project.AssemblyInfo.cs
+C:\Users\This User\Desktop\c#_project עותק\c#_Project\obj\Debug\net6.0-windows\c#_Project.csproj.CoreCompileInputs.cache
+C:\Users\This User\Desktop\c#_project עותק\c#_Project\obj\Debug\net6.0-windows\c#_Project.sourcelink.json
+C:\Users\This User\Desktop\c#_project עותק\c#_Project\obj\Debug\net6.0-windows\c#_Project.csproj.CopyComplete
+C:\Users\This User\Desktop\c#_project עותק\c#_Project\obj\Debug\net6.0-windows\c#_Project.dll
+C:\Users\This User\Desktop\c#_project עותק\c#_Project\obj\Debug\net6.0-windows\refint\c#_Project.dll
+C:\Users\This User\Desktop\c#_project עותק\c#_Project\obj\Debug\net6.0-windows\c#_Project.pdb
+C:\Users\This User\Desktop\c#_project עותק\c#_Project\obj\Debug\net6.0-windows\c#_Project.genruntimeconfig.cache
+C:\Users\This User\Desktop\c#_project עותק\c#_Project\obj\Debug\net6.0-windows\ref\c#_Project.dll
