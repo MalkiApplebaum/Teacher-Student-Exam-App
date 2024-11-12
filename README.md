@@ -9,6 +9,17 @@ The **Exam Management System** is a C# WinForms-based application designed for m
 This application provides a simple and intuitive interface for handling the entire lifecycle of exams, from creation to evaluation.
 
 ---
+## Screenshots
+
+### Teacher Dashboard:
+![Teacher Dashboard](Screenshots/enter.png)
+![Teacher Dashboard](Screenshots/teachers.png)
+![Teacher Dashboard](Screenshots/edit.png)
+
+
+### Student Exam Interface:
+![Student Exam Interface](Screenshots/test.png)
+
 
 ## Features
 
