@@ -62,4 +62,4 @@ This application provides a simple and intuitive interface for handling the enti
 ## Installation Instructions
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-repo/exam-management-system.git
+   git clone https://github.com/MalkiApplebaum/TeacherStudentExamApp.git
