@@ -1,5 +1,5 @@
 # Exam Management System
-# Developed by Malki Applebaum 
+### Developed by Malki Applebaum 
 
 ## Description
 The **Exam Management System** is a C# WinForms-based application designed for managing and conducting exams. The system is divided into two main user roles: **Teachers** and **Students**. 
